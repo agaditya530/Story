@@ -1,1 +1,3 @@
 and this is the second part of my learning git story.
+
+here is some changes in this new branch and inchapter 2.
